@@ -1,5 +1,5 @@
 ## Hey Everyone! 🤙🏻👋🏻
-<img src="https://buggybuddys.com.au/wp-content/uploads/2023/01/Meelup-Beach-2-768x510.jpg)" alt="Meelup Beach" style="width:300px; height:250px;"> <img src="https://wallpapercave.com/wp/PCInmNP.jpg" alt="Red Devils" style="width:300px; height:250px;"> <img src="https://s-media-cache-ak0.pinimg.com/originals/d7/ea/34/d7ea34e96497ba74fe7fca5190f050a9.jpg" alt="Camera" style="width:300px; height:250px">
+<img src="https://buggybuddys.com.au/wp-content/uploads/2023/01/Meelup-Beach-2-768x510.jpg)" alt="Meelup Beach" style="width:200px; height:150px;"> <img src="https://wallpapercave.com/wp/PCInmNP.jpg" alt="Red Devils" style="width:200px; height:150px;"> <img src="https://s-media-cache-ak0.pinimg.com/originals/d7/ea/34/d7ea34e96497ba74fe7fca5190f050a9.jpg" alt="Camera" style="width:200px; height:150px">
 <hr>
 
 ### I'm Laila! Nice to meet you! 
